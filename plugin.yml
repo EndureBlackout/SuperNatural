@@ -1,0 +1,8 @@
+name: SuperNatural
+main: me.endureblackout.sn.SNMain
+version: 1.0
+description: A SuperNatural players plugin.
+author: [EndureBlackout]
+commands:
+  sn:
+    description: Main Command
